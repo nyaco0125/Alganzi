@@ -1,0 +1,26 @@
+iframe{
+    width: 100%;
+}
+
+.Word{
+    color: #d80a0a;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 36px;
+    font-weight: 900;
+    margin: 0;
+    text-align: center;
+}
+
+h5{
+    color: #d80a0a;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0;
+    text-align: center;
+}
+
+hr{
+    border: thin double #d80a0a;
+    margin: 50px auto;
+}

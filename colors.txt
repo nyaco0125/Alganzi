@@ -1,0 +1,4 @@
+red = #d80a0a
+black = #0f0e0e
+point = #590606
+yellow = #FB9E00
